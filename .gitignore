@@ -1,5 +1,6 @@
 # Local files
 ./Gruntfile-udacity.js
+./package-lock.json
 
 # ignore all files in the build/ directory
 node_modules/
